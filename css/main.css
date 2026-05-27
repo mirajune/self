@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 40px auto;
     width: 70%;
 }
 nav ul, footer ul {
@@ -14,18 +14,19 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: rgb(0, 20, 0);
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family: Verdana, Geneva;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    font-family: Verdana, Geneva;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
